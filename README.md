@@ -24,5 +24,5 @@ Feel free to explore the solutions, and I welcome any feedback or contributions!
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your_username/leetcode-solutions.git
+   git clone (https://github.com/nxdo1x/leetcode-solutions.git)
    cd leetcode-solutions
